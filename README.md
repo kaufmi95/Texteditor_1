@@ -17,10 +17,10 @@ Nach jedem Ausbauschritt wird das Programm getestet. Dies geschieht durch das Ve
 
 # Verfasser
 
-Tim Tewes /
-Sebastian Finkbeiner /
-Jordi Otto /
-Elias Kaufmann /
+- Tim Tewes 
+- Sebastian Finkbeiner 
+- Jordi Otto 
+- Elias Kaufmann 
 
 # Danksagung
 
