@@ -1,1 +1,0 @@
-java -jar target/swing-text-editor-0.0.1-SNAPSHOT-jar-with-dependencies.jar
