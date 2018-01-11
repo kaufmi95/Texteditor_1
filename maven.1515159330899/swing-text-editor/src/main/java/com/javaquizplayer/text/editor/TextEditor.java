@@ -103,7 +103,7 @@ public class TextEditor {
 
 	// This flag checks true if the caret position within a numbered para
 	// is at the first text position after the number (number + dot + space).
-	// Alse see EditorCaretListener and NumbersParaKeyListener.		
+	// Alse see EditorCaretListener and NumbersParaKeyListener .		
 	private boolean startPosPlusNum__;
 	
 	private static final String MAIN_TITLE = "My Editor - ";
